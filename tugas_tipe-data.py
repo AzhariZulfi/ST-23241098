@@ -10,7 +10,7 @@ print ("Nilai bil_float =", bil_float, "jenis tipe datanya =" , type(bil_float))
 data_string = "my name is azhari"
 print ("Nilai data_string =", data_string, "jenis tipe datanya =" , type(data_string))
 
-# Tipe data boolean
+#tipe data boolean
 a = True
 print("Nilai a =", a, "jenis tipe datanya =", type(a))
 
